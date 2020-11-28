@@ -24,6 +24,9 @@
     <Compile Include="Classes\AreaOfTriangle.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Classes\LengthOfNumber.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="PythonAlgorithms.py" />
   </ItemGroup>
   <ItemGroup>
